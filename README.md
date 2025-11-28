@@ -44,13 +44,5 @@ A bilingual (EN/JA) AI fashion, makeup, and skincare stylist that adapts to loca
    npm run dev
    ```
 
-## Deployment (Vercel)
 
-* Import repo into Vercel
-* Add same environment variables in **Project Settings → Environment Variables**
-* Deploy with defaults (Vite build is auto-detected)
-
-## Demo Screenshots
-
-(Add 2–3 clean screenshots of chat + product cards)
 
